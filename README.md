@@ -3,3 +3,5 @@
 ## 1. [Media: How a Googler solves coding problems](media/How_a_Googler_solves_coding_problems.md)
 
 ## 2. [Media: What Is Readable Code?](media/What_Is_Readable_Code.md)
+
+## 3. [Media: Always Ask Why Five Times](media/Always-Ask-Why-Five-Times.md)
