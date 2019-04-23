@@ -4,3 +4,4 @@
 2. [Media: What Is Readable Code?](media/What_Is_Readable_Code.md)
 3. [Media: Always Ask Why Five Times](media/Always-Ask-Why-Five-Times.md)
 4. [Media: Rock the Command Line](media/Rock-the-Command-Line.md)
+5. [Media: Excellence is obsolete: redefining the standard for success](media/Excellence-is-obsolete.md)
